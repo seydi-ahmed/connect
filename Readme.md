@@ -33,6 +33,9 @@ auto enp0s3
 iface enp0s3 inet dhcp
 ```
 
-## Développeur
-- Prénom NOM: Mouhamed DIOUF
-- emal: seydiahmedelcheikh@gmail.com
+## Auteur
+- **Nom** : Mouhamed DIOUF
+- **GitHub** : [mouhameddiouf](https://github.com/seydi-ahmed)
+- **Email** : seydiahmedelcheikh@gmail.com
+- **Numéro** : +221776221681
+- **Réseaux** : [LinkedIn](https://linkedin.com/in/mouhamed-diouf-435207174)

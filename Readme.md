@@ -1,5 +1,8 @@
 # Connect
 
+## Lien vers l'exo
+https://github.com/01-edu/public/tree/master/subjects/connect
+
 ## Exporter les 3 machines depuis virualbox
 - machine 
 - ajouter
